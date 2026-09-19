@@ -1,5 +1,20 @@
 # 站点纯净模式（抖音 / B站 / YouTube）
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/h1284646296-rgb/site-pure/blob/main/site-pure.user.js)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+> **一键安装**：用 Safari 打开下面这个链接，Userscripts 会弹出安装提示，点「安装」即可。
+>
+> **主链接**（GitHub）
+> https://raw.githubusercontent.com/h1284646296-rgb/site-pure/main/site-pure.user.js
+>
+> **备用链接**（jsDelivr，中国大陆更容易打开）
+> https://cdn.jsdelivr.net/gh/h1284646296-rgb/site-pure@main/site-pure.user.js
+>
+> 还没装 Userscripts？先看 **[INSTALL.md](INSTALL.md)**（零基础教程，3 分钟）。
+
+---
+
 一个 userscript，三站通用。目标是把「刷不完的推荐流」换成「搜索 → 只看这个博主 → 看完提示没有更多」，并把首页的自动播放推荐掐掉。
 
 - **首页**：只留搜索框，推荐流整块隐藏
