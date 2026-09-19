@@ -1,0 +1,8 @@
+# 构建/临时产物
+/tmp/
+*.log
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
