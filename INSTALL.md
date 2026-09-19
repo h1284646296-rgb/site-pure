@@ -34,7 +34,12 @@ Userscripts 是一个 Safari 扩展，负责运行这个脚本。
    https://raw.githubusercontent.com/h1284646296-rgb/site-pure/main/site-pure.user.js
    ```
 
-   > 正式发布后这里会换成最终地址。简单说：**把上面的链接贴进 Safari 地址栏，回车。**
+   > 如果打不开（GitHub 在国内有时很慢），换这个备用链接：
+   > ```
+   > https://cdn.jsdelivr.net/gh/h1284646296-rgb/site-pure@main/site-pure.user.js
+   > ```
+   >
+   > 简单说：**把链接贴进 Safari 地址栏，回车。**
 
 2. 页面上会出现 **Userscripts** 的安装提示，点 **安装**
    （如果没弹出来，点地址栏左边的扩展图标，手动打开 Userscripts 弹窗，再点一次）
