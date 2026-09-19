@@ -31,7 +31,7 @@ Userscripts 是一个 Safari 扩展，负责运行这个脚本。
 1. 用 Safari 打开这个链接（**一键安装**）：
 
    ```
-   https://raw.githubusercontent.com/你的用户名/site-pure/main/site-pure.user.js
+   https://raw.githubusercontent.com/h1284646296-rgb/site-pure/main/site-pure.user.js
    ```
 
    > 正式发布后这里会换成最终地址。简单说：**把上面的链接贴进 Safari 地址栏，回车。**

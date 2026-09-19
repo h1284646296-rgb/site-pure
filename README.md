@@ -11,7 +11,7 @@
 
 1. App Store 装 **Userscripts**（免费，[直达链接](https://apps.apple.com/app/id1463298887)），打开它一次
 2. Safari → 设置 → 扩展 → 勾选 **Userscripts**
-3. 用 Safari 打开 **[一键安装链接](https://raw.githubusercontent.com/你的用户名/site-pure/main/site-pure.user.js)**，点「安装」
+3. 用 Safari 打开 **[一键安装链接](https://raw.githubusercontent.com/h1284646296-rgb/site-pure/main/site-pure.user.js)**，点「安装」
 4. 首次访问站点时，点扩展图标 → Userscripts → **Always Allow on This Website**，刷新
 
 **详细图文步骤见 [INSTALL.md](INSTALL.md)。**
