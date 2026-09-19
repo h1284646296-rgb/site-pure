@@ -1,0 +1,13 @@
+站点纯净模式 —— 3 步上手
+
+1) App Store 装 Userscripts（免费），打开一次
+2) Safari 设置 → 扩展 → 勾选 Userscripts
+3) Safari 打开这个链接，点「安装」：
+   https://raw.githubusercontent.com/你的用户名/site-pure/main/site-pure.user.js
+   （正式地址发布后替换）
+
+然后访问 douyin.com / bilibili.com / youtube.com，
+点地址栏扩展图标 → Userscripts → Always Allow on This Website → 刷新。
+
+首页只剩搜索框 = 装好了。
+详细说明见 INSTALL.md，遇到问题看「常见问题」。

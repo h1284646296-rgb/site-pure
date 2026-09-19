@@ -7,7 +7,14 @@
 - **博主 / 频道页**：显示全部视频，不做限制
 - **不限每日浏览数量**（原本有个「看满 10 条自动关标签页」，已移除）
 
-安装：把 `site-pure.user.js` 放进 Safari 的 [Userscripts](https://apps.apple.com/app/id1463298887) 扩展脚本目录，打开一次扩展弹窗让它重新扫描即可。
+## 安装（约 3 分钟，零基础）
+
+1. App Store 装 **Userscripts**（免费，[直达链接](https://apps.apple.com/app/id1463298887)），打开它一次
+2. Safari → 设置 → 扩展 → 勾选 **Userscripts**
+3. 用 Safari 打开 **[一键安装链接](https://raw.githubusercontent.com/你的用户名/site-pure/main/site-pure.user.js)**，点「安装」
+4. 首次访问站点时，点扩展图标 → Userscripts → **Always Allow on This Website**，刷新
+
+**详细图文步骤见 [INSTALL.md](INSTALL.md)。**
 
 ---
 
